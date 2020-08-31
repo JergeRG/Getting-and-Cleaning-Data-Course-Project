@@ -25,7 +25,7 @@ variable `features.txt`.
     Here is a description of the variables:
     
     |     Varible     |        Dimension        | Description                                                                       |
-    | :-------------: | :---------------------: | --------------------------------------------------------------------------------- |
+    | :-------------: | :---------------------: | -------------------------------------------------------|
     | features        | 561 rows, 2 columns     | The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. |
     | activity_labels | 6 rows, 2 columns       | Activities performed when measurements were taken with its corresponding ID. |
     | subject_train   | 2947 rows, 1 column     | Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. |
